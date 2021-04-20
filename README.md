@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wilson Urias</h1>
 <h3 align="center">A passionate web developer from New Jersey</h3>
 
-<p align="left"> <a href="https://twitter.com/wilsonthedev" target="blank"><img src="https://img.shields.io/twitter/follow/wilsonthedev?logo=twitter&style=for-the-badge" alt="wilsonthedev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/wilsonuthedev" target="blank"><img src="https://img.shields.io/twitter/follow/wilsonuthedev?logo=twitter&style=for-the-badge" alt="wilsonuthedev" /></a> </p>
 
 - 🔭 I’m currently working on **improving my back-end skills**
 
@@ -9,7 +9,9 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at [*coming soon*](*coming soon*)
+- 🤝 I’m looking for help with **networking and meeting other developers**
+
+- 📝 I regularly post and share articles on [my twitter! Follow me @WilsonUTheDev](my twitter! Follow me @WilsonUTheDev)
 
 - 💬 Ask me about **web layouts**
 
@@ -19,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wilsonthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="wilsonthedev" height="30" width="40" /></a>
+<a href="https://twitter.com/wilsonuthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="wilsonuthedev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wilsonurias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="wilsonurias" height="30" width="40" /></a>
 </p>
 
@@ -29,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilsonurias&show_icons=true&locale=en&layout=compact" alt="wilsonurias" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wilsonurias&show_icons=true&locale=en" alt="wilsonurias" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wilsonurias&" alt="wilsonurias" /></p>
