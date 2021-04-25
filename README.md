@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **networking and meeting other developers**
 
-- 📝 I regularly post and share articles on my twitter! Follow me @WilsonUTheDev
+- 📝 I regularly post and share articles on my twitter! Follow @WilsonUTheDev
 
 - 💬 Ask me about **web layouts**
 
