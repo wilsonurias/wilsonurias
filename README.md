@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.JS, Express, MongoDB,& React.JS**
 
-- 👯 I’m looking to collaborate on **open-source projects**
+- 👯 I’m looking to collaborate on **projects**
 
 - 🤝 I’m looking for help with **networking and meeting other developers**
 
