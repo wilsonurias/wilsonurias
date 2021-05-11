@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/wilsonuthedev" target="blank"><img src="https://img.shields.io/twitter/follow/wilsonuthedev?logo=twitter&style=for-the-badge" alt="wilsonuthedev" /></a> </p>
 
-- 🔭 I’m currently working on **improving my back-end skills**
+- 🔭 I’m currently working on **improving my Javascript skills**
 
 - 🌱 I’m currently learning **Node.JS, Express, MongoDB,& React.JS**
 
