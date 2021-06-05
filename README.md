@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/wilsonuthedev" target="blank"><img src="https://img.shields.io/twitter/follow/wilsonuthedev?logo=twitter&style=for-the-badge" alt="wilsonuthedev" /></a> </p>
 
-- 🔭 I’m currently working on **improving my React skills and polishing my front-end skills**
+- 🔭 I’m currently working on **improving my React skills and polishing my front end skills**
 
 - 🌱 I’m currently learning **Node.JS, Express, & React.JS**
 
@@ -12,8 +12,6 @@
 - 🤝 I’m looking for help with **networking and meeting other developers**
 
 - 📝 I regularly post and share articles on my twitter! Follow @WilsonUTheDev
-
-- 💬 Ask me about **web layouts**
 
 - 📫 How to reach me **wilsurias@gmail.com**
 
