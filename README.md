@@ -13,7 +13,7 @@
 
 <!-- - 💬 Ask me about **web layouts** -->
 
-- 📝 I regularly post and share articles on my twitter! Follow @WilsonUTheDev
+- 📝 I regularly post web tech news on my twitter! Follow @WilsonUTheDev
 
 - 📫 How to reach me **wilsurias@gmail.com**
 
