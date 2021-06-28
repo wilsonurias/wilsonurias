@@ -9,7 +9,7 @@
 <!-- 
 - 👯 I’m looking to collaborate on **front end client projects** -->
 
-- 🤝 I’m looking for help with **web designing & layouts**
+- 🤝 I’m looking for help with **back-end processes**
 
 <!-- - 💬 Ask me about **web layouts** -->
 
