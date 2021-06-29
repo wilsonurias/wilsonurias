@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I have a background in Applied Kinesiology. Ask me about it!**
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Connect With Me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wilsonurias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="wilsonurias" height="30" width="40" /></a>
 </p>
