@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect With Me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wilsonurias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="wilsonurias" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wilsonurias" target="blank"><img align="center" src="https://www.linkedin.com/in/wilson-urias/" alt="wilsonurias" height="30" width="40" /></a>
 </p>
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/wilsonuthedev?style=social">
