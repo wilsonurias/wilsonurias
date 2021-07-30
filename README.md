@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilson Urias</h1>
-<h3 align="center">A passionate Software Engineer from the Northeast</h3>
+<h3 align="center">A passionate Software Engineer from New Jersey</h3>
 
 <p align="left"> <a href="https://twitter.com/wilsonuthedev" target="blank"><img src="https://img.shields.io/twitter/follow/wilsonuthedev?logo=twitter&style=for-the-badge" alt="wilsonuthedev" /></a> </p>
 
