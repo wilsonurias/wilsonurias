@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about **Node.JS & Express**
 <!-- 
-- 👯 I’m looking to collaborate on **front end client projects** -->
+- 👯 I’m looking to collaborate on ** client projects** -->
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
 
