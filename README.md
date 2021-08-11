@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilson</h1>
-<h3 align="center">A passionate Web Developer from NJ</h3>
+<h3 align="center">I'm a passionate Web Developer from NJ</h3>
 
 <p align="left"> <a href="https://twitter.com/wilsonuthedev" target="blank"><img src="https://img.shields.io/twitter/follow/wilsonuthedev?logo=twitter&style=for-the-badge" alt="wilsonuthedev" /></a> </p>
 
