@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **making full stack web apps**
 
-- 🌱 I’m currently learning about **Node.JS & Express**
+- 🌱 I’m currently learning about **data structures & algorithms**
 <!-- 
 - 👯 I’m looking to collaborate on ** client projects** -->
 
