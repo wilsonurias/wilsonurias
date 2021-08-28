@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on **creating a CRUD web app!**
 
 - 🌱 I’m currently learning about **data structures & algorithms**
-<!-- 
-- 👯 I’m looking to collaborate on ** client projects** -->
+
+- 👯 I’m looking to collaborate on ** client projects**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
 
