@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/wilsonuthedev" target="blank"><img src="https://img.shields.io/twitter/follow/wilsonuthedev?logo=twitter&style=for-the-badge" alt="wilsonuthedev" /></a> </p>
 
-- 🔭 I’m currently working on **creating a CRUD web app!**
+- 🔭 I’m currently working on **creating a CRUD web app! & freelance projects**
 
 - 🌱 I’m currently learning about **data structures & algorithms**
 
