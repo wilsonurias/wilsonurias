@@ -13,7 +13,7 @@
 
 <!-- - 💬 Ask me about **web layouts** -->
 
-- 📝 I regularly post programming contennt and, of course, memes on my twitter! Follow @WilsonUTheDev
+- 📝 I regularly post programming content and, of course, memes on my twitter! Follow @WilsonUTheDev
 
 - 📫 How to reach me **wilsurias@gmail.com**
 
