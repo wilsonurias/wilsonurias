@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about **data structures & algorithms**
 
-- 👯 I’m looking to collaborate on ** client projects**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
 
