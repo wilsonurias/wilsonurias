@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **web design & client projects**
 
-- 🌱 I’m currently learning about **data structures & algorithms**
+- 🌱 I’m currently learning about **React**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
